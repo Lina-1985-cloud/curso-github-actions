@@ -11,4 +11,4 @@ jobs:
       with:
         node-version: '14'
     - name: Run Hola Mundo script
-      run: node hola-mundo.js
+      run: node ./hola-mundo.js
